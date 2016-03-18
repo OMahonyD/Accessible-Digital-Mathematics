@@ -1,0 +1,21 @@
+body {
+  font-size: 2em;
+  margin: 50px;
+  font-family: Garamond;
+}
+
+h2{
+  text-align: center;
+  border: 1px solid black;
+  background: #ccc;
+}
+
+table, tr, td{
+  border: 1px solid black;;
+  border-collapse: collapse;
+  padding: 15px;
+}
+
+td:first-child {
+  text-align: right;
+}
